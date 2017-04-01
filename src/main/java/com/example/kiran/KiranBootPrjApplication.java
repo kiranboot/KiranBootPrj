@@ -18,10 +18,10 @@ public class KiranBootPrjApplication extends SpringBootServletInitializer {
 	/**
 	 *  Used when run as war (packaging in the pom.xml)
 	 */
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return builder.sources(KiranBootPrjApplication.class);
-	}
+//	@Override
+//	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+//		return builder.sources(KiranBootPrjApplication.class);
+//	}
 	
 	
 }
