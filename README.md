@@ -35,3 +35,6 @@ Add Tomcat server and Add project to server
 
 need to add context path in the url
 http://localhost:8080/demo/getName
+
+
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-starters
